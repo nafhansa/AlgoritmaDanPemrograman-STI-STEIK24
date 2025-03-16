@@ -13,4 +13,4 @@ https://github.com/fawwazabrials/Praktikum-STEI-STI-ITB/tree/main
 
 | Dikelola dengan ❤️ oleh mahasiswa STI STEI-K ITB 2024 |
 
-- Nafhan 18224027 -
+--- Nafhan 18224027 ---
