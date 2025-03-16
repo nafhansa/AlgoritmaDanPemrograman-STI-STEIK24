@@ -7,7 +7,7 @@
 ---
 
 ## 📂 S T R U K T U R  
-_(Tambahkan struktur direktori di sini jika ingin diperbarui otomatis)_  
+<!-- DIRECTORY_STRUCTURE -->
 
 ---
 
