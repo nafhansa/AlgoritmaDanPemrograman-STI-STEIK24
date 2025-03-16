@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 0 * * *"  # Jalankan setiap hari pukul 00:00 UTC (opsional)
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
