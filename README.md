@@ -5,8 +5,6 @@
 > Semua materi di sini bertujuan untuk membantu pemahaman konsep pemrograman dasar dalam **bahasa C** dan memberikan referensi belajar tambahan bagi mahasiswa.  
 
 ---
-
-## 📂 S T R U K T U R  
 <!-- DIRECTORY_STRUCTURE -->
 ## 📂 S T R U K T U R
 
