@@ -8,6 +8,33 @@
 <!-- DIRECTORY_STRUCTURE -->
 ## 📂 S T R U K T U R
 
+```plaintext
+.
+├── Praktikum 0
+│   ├── hello.c
+│   ├── jaraktempuh.c
+│   ├── lamawaktu.c
+│   ├── luaslingkaran.c
+│   └── penjumlahan.c
+├── Praktikum 1
+│   ├── Pasca-Praktikum 1
+│   │   ├── AngkaPalindrom.c
+│   │   ├── HitungPisangJelly.c
+│   │   ├── JejakNol.c
+│   │   ├── KodeTakUnik.c
+│   │   ├── LuasRumah.c
+│   │   └── Post Praktikum 1 - K3 & K4.pdf
+│   └── Pra-Praktikum 1
+│       ├── DeretFibonacci.c
+│       ├── PolaAneh.c
+│       └── pita.c
+├── README.md
+└── STRUCTURE.md
+
+5 directories, 16 files
+```
+## 📂 S T R U K T U R
+
 ```
 .
 ├── Praktikum 0
