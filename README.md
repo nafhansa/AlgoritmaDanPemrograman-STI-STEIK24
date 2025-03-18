@@ -7,8 +7,6 @@
 ---
 ## 📂 S T R U K T U R
 ```
-```plaintext
-.
 ├── Praktikum 0
 │   ├── hello.c
 │   ├── jaraktempuh.c
