@@ -5,35 +5,8 @@
 > Semua materi di sini bertujuan untuk membantu pemahaman konsep pemrograman dasar dalam **bahasa C** dan memberikan referensi belajar tambahan bagi mahasiswa.  
 
 ```
-## 📂 S T R U K T U R
-
+<!-- DIRECTORY_STRUCTURE -->
 ```
-.
-├── Praktikum 0
-│   ├── hello.c
-│   ├── jaraktempuh.c
-│   ├── lamawaktu.c
-│   ├── luaslingkaran.c
-│   └── penjumlahan.c
-├── Praktikum 1
-│   ├── Pasca-Praktikum 1
-│   │   ├── AngkaPalindrom.c
-│   │   ├── HitungPisangJelly.c
-│   │   ├── JejakNol.c
-│   │   ├── KodeTakUnik.c
-│   │   ├── LuasRumah.c
-│   │   └── Post Praktikum 1 - K3 & K4.pdf
-│   └── Pra-Praktikum 1
-│       ├── DeretFibonacci.c
-│       ├── PolaAneh.c
-│       └── pita.c
-├── README.md
-└── STRUCTURE.md
-
-5 directories, 16 files
-```
-
----
 
 ## 📚 R E F E R E N S I  
 Untuk membantu dalam memahami materi praktikum, kamu juga bisa melihat referensi dari repositori berikut:  
