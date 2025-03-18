@@ -34,7 +34,7 @@
 5 directories, 16 files
 ```
 ```
-
+---
 ## 📚 R E F E R E N S I  
 Untuk membantu dalam memahami materi praktikum, kamu juga bisa melihat referensi dari repositori berikut:  
 - [IF2111 Praktikum - Gracialy](https://github.com/gracialy/IF2111_Praktikum/tree/main)  
