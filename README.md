@@ -2,7 +2,7 @@
 
 📌 **T E N T A N G**  
 > Repositori ini berisi kumpulan tugas dan latihan praktikum mata kuliah **Algoritma dan Pemrograman** di Program Studi **Sistem dan Teknologi Informasi (STI) STEI-K ITB** tahun 2024.  
-> Semua materi di sini bertujuan untuk membantu pemahaman konsep pemrograman dasar dalam **bahasa C** dan memberikan referensi belajar tambahan bagi mahasiswa.  
+> Semua materi disini bertujuan untuk membantu pemahaman konsep pemrograman dasar dalam **bahasa C** dan memberikan referensi belajar tambahan bagi mahasiswa.  
 
 ---
 ## 📂 S T R U K T U R
